@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		UiD3ZTkCAAJkxojW8v5sdAydZfw=
+		E38cW9EayA87WUALZVysrnY0Ay4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		ZMFgFZ+tg25L2WHhy3bB3/MG958=
+		9WRXyjFed4WwHYwoo0mCfIyvjh8=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
@@ -22,23 +22,147 @@
 		</data>
 		<key>flutter_assets/assets/fonts/.DS_Store</key>
 		<data>
-		n3rwzQWyjK+jGC8BvQ/oFlHFMRc=
+		mIT5cRPwtYZoYPeIz3Wy0z2GpHc=
 		</data>
 		<key>flutter_assets/assets/fonts/helvetica-neue/.DS_Store</key>
 		<data>
 		jEVIV/xk04uEQa04QQcdlMcuStA=
 		</data>
-		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-light.otf</key>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Bold.otf</key>
 		<data>
-		SISaT05i9jYGENx5QJWGHh2gM+U=
+		6Vwk6uXJ3dM2VzD/tF9u0fK6ZFg=
 		</data>
-		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-medium.otf</key>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-BoldItalic.otf</key>
 		<data>
-		8BZSJULhuWfIBOOGHRMMhBMsBmU=
+		tj8ya6JuDqa4KlwQ7xRCh1ylj60=
 		</data>
-		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue.otf</key>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-CondensedBlack.otf</key>
 		<data>
-		qhXUkN5at4OqVeRJ4DzGiCEJPlc=
+		GaB4H79+wcp7qw/eXpixih29Mbg=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-CondensedBold.otf</key>
+		<data>
+		zjBgIi+g/0RsOrsA0sJ/zhtJTZ8=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Italic.otf</key>
+		<data>
+		T49zc5vpPpNqeaeMyC9Orh8kmP4=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Light.otf</key>
+		<data>
+		+jEDi4SR6GJKYEyWHwMr8N3WFUg=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-LightItalic.otf</key>
+		<data>
+		DOKZdqGDGUI6B1tRVRqjfW7uSJM=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Medium.otf</key>
+		<data>
+		0oGJq0xlaI0mFcUfNzEz6ZPO3Ec=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-UltraLight.otf</key>
+		<data>
+		4x6c4aeX7gD/p3CUjdzCqAoxK2c=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-UltraLightItalic.otf</key>
+		<data>
+		4eZaAC8qw9h56xZZMdZlOvz4UUc=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue.otf</key>
+		<data>
+		57QVwSeXqMwRygPglQfvv+MsSe4=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-bold-italic.ttf</key>
+		<data>
+		T7hw5Cy+4MYuiyPbVAOE1FzCtbM=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-bold.ttf</key>
+		<data>
+		rKems8Sj5fc+FziRB34S/7k8cx4=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-condensed-black.ttf</key>
+		<data>
+		pWJ1ZHLl/qSGkkz4AhZ5PTvCZfI=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-condensed-bold.ttf</key>
+		<data>
+		sDozqAGWbnHxRwIBH8TxDIspKn8=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-italic.ttf</key>
+		<data>
+		mRvgl9lni9RUKvc1D+1qjdN2QWk=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-light-italic.ttf</key>
+		<data>
+		dgJnn2iOS2e5Tv9ngxiIQ+UNzKQ=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-light.ttf</key>
+		<data>
+		XK0c2P2mVBXeMp80okSviMoHHkc=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-medium.ttf</key>
+		<data>
+		xe4IZfRMmRJU7sCriE6LntilfUQ=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-regular.ttf</key>
+		<data>
+		ZbBB73UfDKbQcJhERK7sSYY1uuc=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-ultra-light-italic.ttf</key>
+		<data>
+		YfWNoJYm8eJXJPpGvSGCbuBPfeA=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-ultra-light.ttf</key>
+		<data>
+		rASab9KJcHXMS4oow9F661zVVNA=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneue.ttf</key>
+		<data>
+		ZbBB73UfDKbQcJhERK7sSYY1uuc=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuebold.ttf</key>
+		<data>
+		rKems8Sj5fc+FziRB34S/7k8cx4=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuebolditalic.ttf</key>
+		<data>
+		T7hw5Cy+4MYuiyPbVAOE1FzCtbM=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuecondensedblack.ttf</key>
+		<data>
+		pWJ1ZHLl/qSGkkz4AhZ5PTvCZfI=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuecondensedbold.ttf</key>
+		<data>
+		sDozqAGWbnHxRwIBH8TxDIspKn8=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneueitalic.ttf</key>
+		<data>
+		mRvgl9lni9RUKvc1D+1qjdN2QWk=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuelight.ttf</key>
+		<data>
+		XK0c2P2mVBXeMp80okSviMoHHkc=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuelightitalic.ttf</key>
+		<data>
+		dgJnn2iOS2e5Tv9ngxiIQ+UNzKQ=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuemedium.ttf</key>
+		<data>
+		xe4IZfRMmRJU7sCriE6LntilfUQ=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneueultralight.ttf</key>
+		<data>
+		rASab9KJcHXMS4oow9F661zVVNA=
+		</data>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneueultralightitalic.ttf</key>
+		<data>
+		YfWNoJYm8eJXJPpGvSGCbuBPfeA=
+		</data>
+		<key>flutter_assets/assets/images/.DS_Store</key>
+		<data>
+		Dj0yDOrcgbvvb//KH4jrxLzb60o=
 		</data>
 		<key>flutter_assets/assets/images/bg_ocean_moon.png</key>
 		<data>
@@ -48,7 +172,15 @@
 		<data>
 		wtzT2FQPZXaCTVO6ViBOfG+AdIk=
 		</data>
+		<key>flutter_assets/assets/images/bg_welcome_sleep.png</key>
+		<data>
+		wtzT2FQPZXaCTVO6ViBOfG+AdIk=
+		</data>
 		<key>flutter_assets/assets/images/logo_wecome_sleep.png</key>
+		<data>
+		WkCLDgDLBjRjhRKXX/6A86h+9B0=
+		</data>
+		<key>flutter_assets/assets/images/logo_welcome_sleep.png</key>
 		<data>
 		WkCLDgDLBjRjhRKXX/6A86h+9B0=
 		</data>
@@ -66,7 +198,7 @@
 		</data>
 		<key>flutter_assets/assets/images/sweet_sleep.png</key>
 		<data>
-		iQBA/yH5iCZgItGKcT8IoatTNO8=
+		lU8olQFx6sPl12sTH30RD1NI2cU=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -78,7 +210,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		RnrVtM5pGCHHkn5oHSrcNU9tHFY=
+		4WKiG3EeMUMaBK9tRxWeANrS64s=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -95,22 +227,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UiD3ZTkCAAJkxojW8v5sdAydZfw=
+			E38cW9EayA87WUALZVysrnY0Ay4=
 			</data>
 			<key>hash2</key>
 			<data>
-			djKHAADdUU5uvmhxW1BSXChOBwPzvG7Gj3fmMX8os9s=
+			fbQKTxwUFUqpm7IVoOv8qVaTyG0kPjs5LuEazCL3VJ0=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZMFgFZ+tg25L2WHhy3bB3/MG958=
+			9WRXyjFed4WwHYwoo0mCfIyvjh8=
 			</data>
 			<key>hash2</key>
 			<data>
-			PE8jmGHMKywe7BZG9Ma6psQ+DzBugShNK1v7Sw0XOOM=
+			DKN90gsqi5MPn3JiNrC7Scukx6wN3rGIY7PGjvUZzC4=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
@@ -124,37 +256,367 @@
 			6hR/DIf9XzSxcLGt3NrKLzET0Fgz25iuJISEK3ZsPEw=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-light.otf</key>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Bold.otf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SISaT05i9jYGENx5QJWGHh2gM+U=
+			6Vwk6uXJ3dM2VzD/tF9u0fK6ZFg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ywNHcoHYDl7JwveuNI4hRrlT7hCmUw3aLamfDgdQ050=
+			GjE9U3dzCjic3chGB3A/g4SkyZiMt/cqKKeynTZD8TI=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-medium.otf</key>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-BoldItalic.otf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8BZSJULhuWfIBOOGHRMMhBMsBmU=
+			tj8ya6JuDqa4KlwQ7xRCh1ylj60=
 			</data>
 			<key>hash2</key>
 			<data>
-			sVNnDMGxLm0o0Q/zvPjcAt8AZUVtqfpWysvvTNmDkxw=
+			vFRP80p3paS2W9gR06hLQfrAjCzOyETz8EJKPfUeH2s=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue.otf</key>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-CondensedBlack.otf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qhXUkN5at4OqVeRJ4DzGiCEJPlc=
+			GaB4H79+wcp7qw/eXpixih29Mbg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OOyBKH8K2/cdAffpGOokgw0qUEwl2r3mCXrfYACdIqw=
+			pdXYdf6W57eANfX7Pi5eB8MsCb/6Kd0IVHtWHCENwkU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-CondensedBold.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zjBgIi+g/0RsOrsA0sJ/zhtJTZ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			wEFfgTCUFVUnz57ni+UAl7yHVijVJVUEPNTv+/mb1l4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Italic.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T49zc5vpPpNqeaeMyC9Orh8kmP4=
+			</data>
+			<key>hash2</key>
+			<data>
+			jKZP4kNyai/jFdIbSUQxr0W5OvkbawAXtb84OVl6PXQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Light.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+jEDi4SR6GJKYEyWHwMr8N3WFUg=
+			</data>
+			<key>hash2</key>
+			<data>
+			XRPZM71IBEP5kBtN76O5Sd9Vdd7bStmV7RQUg7MPhwU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-LightItalic.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DOKZdqGDGUI6B1tRVRqjfW7uSJM=
+			</data>
+			<key>hash2</key>
+			<data>
+			DiSSBLr4O0lZ57En2HkWmY9XJh0m5lOcgiRhUK3UF7Q=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-Medium.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0oGJq0xlaI0mFcUfNzEz6ZPO3Ec=
+			</data>
+			<key>hash2</key>
+			<data>
+			iS0mF3mg5cVOMCHl3qmgj4zKBOh0KsgoSy02mbBFdRM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-UltraLight.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4x6c4aeX7gD/p3CUjdzCqAoxK2c=
+			</data>
+			<key>hash2</key>
+			<data>
+			leEG5F76Kktd9QuOMaHVQbqlQCvuxCU0odPL4cCNVHg=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue-UltraLightItalic.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4eZaAC8qw9h56xZZMdZlOvz4UUc=
+			</data>
+			<key>hash2</key>
+			<data>
+			UZWgFAPI1j3spVK7u1qev87/v+sYaFexSijqhLRCADM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/HelveticaNeue.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			57QVwSeXqMwRygPglQfvv+MsSe4=
+			</data>
+			<key>hash2</key>
+			<data>
+			acS49rvP1bL6rQ3QvPyKBhmcwSh2w2ABYWANfIKCOJI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-bold-italic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T7hw5Cy+4MYuiyPbVAOE1FzCtbM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tild7FwpGkt8VwuuD7VMC17RXFvKsBeFcqzi4KVDSOM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rKems8Sj5fc+FziRB34S/7k8cx4=
+			</data>
+			<key>hash2</key>
+			<data>
+			rMquiB/n6UyhYWXeK99e6tXyPKGsffpnmyfKNRhMWlY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-condensed-black.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pWJ1ZHLl/qSGkkz4AhZ5PTvCZfI=
+			</data>
+			<key>hash2</key>
+			<data>
+			qicVM+YVkTvWpQF+BoL50ho+lsYEgxX+gHtdEDKYkhA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-condensed-bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sDozqAGWbnHxRwIBH8TxDIspKn8=
+			</data>
+			<key>hash2</key>
+			<data>
+			uzDf6k7eoXLT2I0MQFpdg/uxhaq5yQ0KSTPJ6Zk4fbQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-italic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mRvgl9lni9RUKvc1D+1qjdN2QWk=
+			</data>
+			<key>hash2</key>
+			<data>
+			zCww5noa3bMo2A3f3EOAZNXGmGBQLCOwOgu0NZ3wVFQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-light-italic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dgJnn2iOS2e5Tv9ngxiIQ+UNzKQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			KdQ3lIZjwWpOgvxgkRQ2eHHWIM+nYnTOCZQZEargpZI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XK0c2P2mVBXeMp80okSviMoHHkc=
+			</data>
+			<key>hash2</key>
+			<data>
+			SfDVotRizCGK1Jmnvz/a8ZfCnzsom1F1PeVdRiQyU6s=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-medium.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xe4IZfRMmRJU7sCriE6LntilfUQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			xKGZBvBvWA2xcdmLhUZUd1o+9AfGGiUz7ycVPez8wEE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZbBB73UfDKbQcJhERK7sSYY1uuc=
+			</data>
+			<key>hash2</key>
+			<data>
+			gzgEFzlAjWHYyuE4wfKY6u+lfkSzGJvE4S7qm+ScP34=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-ultra-light-italic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YfWNoJYm8eJXJPpGvSGCbuBPfeA=
+			</data>
+			<key>hash2</key>
+			<data>
+			xU1nB6Wcr6FdRYSlUyLokVbx9zu+KSmi4D1hc0uvNCk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helvetica-neue-ultra-light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rASab9KJcHXMS4oow9F661zVVNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zih0/YxJzj2daYXLNrk3ukHykDYbO3FczdEUPcGLlRw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneue.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZbBB73UfDKbQcJhERK7sSYY1uuc=
+			</data>
+			<key>hash2</key>
+			<data>
+			gzgEFzlAjWHYyuE4wfKY6u+lfkSzGJvE4S7qm+ScP34=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuebold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rKems8Sj5fc+FziRB34S/7k8cx4=
+			</data>
+			<key>hash2</key>
+			<data>
+			rMquiB/n6UyhYWXeK99e6tXyPKGsffpnmyfKNRhMWlY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuebolditalic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T7hw5Cy+4MYuiyPbVAOE1FzCtbM=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tild7FwpGkt8VwuuD7VMC17RXFvKsBeFcqzi4KVDSOM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuecondensedblack.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pWJ1ZHLl/qSGkkz4AhZ5PTvCZfI=
+			</data>
+			<key>hash2</key>
+			<data>
+			qicVM+YVkTvWpQF+BoL50ho+lsYEgxX+gHtdEDKYkhA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuecondensedbold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sDozqAGWbnHxRwIBH8TxDIspKn8=
+			</data>
+			<key>hash2</key>
+			<data>
+			uzDf6k7eoXLT2I0MQFpdg/uxhaq5yQ0KSTPJ6Zk4fbQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneueitalic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mRvgl9lni9RUKvc1D+1qjdN2QWk=
+			</data>
+			<key>hash2</key>
+			<data>
+			zCww5noa3bMo2A3f3EOAZNXGmGBQLCOwOgu0NZ3wVFQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuelight.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XK0c2P2mVBXeMp80okSviMoHHkc=
+			</data>
+			<key>hash2</key>
+			<data>
+			SfDVotRizCGK1Jmnvz/a8ZfCnzsom1F1PeVdRiQyU6s=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuelightitalic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dgJnn2iOS2e5Tv9ngxiIQ+UNzKQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			KdQ3lIZjwWpOgvxgkRQ2eHHWIM+nYnTOCZQZEargpZI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneuemedium.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xe4IZfRMmRJU7sCriE6LntilfUQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			xKGZBvBvWA2xcdmLhUZUd1o+9AfGGiUz7ycVPez8wEE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneueultralight.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rASab9KJcHXMS4oow9F661zVVNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zih0/YxJzj2daYXLNrk3ukHykDYbO3FczdEUPcGLlRw=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/helvetica-neue/helveticaneueultralightitalic.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YfWNoJYm8eJXJPpGvSGCbuBPfeA=
+			</data>
+			<key>hash2</key>
+			<data>
+			xU1nB6Wcr6FdRYSlUyLokVbx9zu+KSmi4D1hc0uvNCk=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/bg_ocean_moon.png</key>
@@ -179,7 +641,29 @@
 			0K6s52+xqOXOC+RPKmaYzGE+OiRrc2V/iyUqJVk4leo=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/images/bg_welcome_sleep.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wtzT2FQPZXaCTVO6ViBOfG+AdIk=
+			</data>
+			<key>hash2</key>
+			<data>
+			0K6s52+xqOXOC+RPKmaYzGE+OiRrc2V/iyUqJVk4leo=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/images/logo_wecome_sleep.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WkCLDgDLBjRjhRKXX/6A86h+9B0=
+			</data>
+			<key>hash2</key>
+			<data>
+			OI2+Tj8hcI5dWI3lkHbpOP8tmzPECYIR6LLwBVAo4f8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/logo_welcome_sleep.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -227,11 +711,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iQBA/yH5iCZgItGKcT8IoatTNO8=
+			lU8olQFx6sPl12sTH30RD1NI2cU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8mo18c/OD7dCdFWSSSgWuJ9RhlHBwzfZC30FstYfJHI=
+			gvbJlRekWNHymrv52PbLbnelOkclU/RllbOJMpXWhfY=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -260,11 +744,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RnrVtM5pGCHHkn5oHSrcNU9tHFY=
+			4WKiG3EeMUMaBK9tRxWeANrS64s=
 			</data>
 			<key>hash2</key>
 			<data>
-			K7xZdDTYe3ua8MIuk0uEf+6+V7cb0FfrmsbcS8sLePI=
+			cdqTyNTmCBEKasaiEPskdbXFRwfn0D+KUT2IFbkNGro=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
