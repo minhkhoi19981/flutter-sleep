@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:project_sleep/modules/landing/pages/landing_page.dart';
+import 'package:project_sleep/modules/landing/landing_page.dart';
+import 'package:project_sleep/router/app_route_name.dart';
+import 'package:project_sleep/router/app_routes.dart';
 import 'package:project_sleep/theme/app_colors.dart';
 import 'package:project_sleep/theme/app_styles.dart';
 
@@ -14,23 +16,21 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
+    // SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: []);
     return MaterialApp(
-        title: 'Sleep App',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-          elevatedButtonTheme: ElevatedButtonThemeData(
-            style: ElevatedButton.styleFrom(
-              primary: AppColors.primary,
-              textStyle: AppStyles.textButton,
-            ),
+      title: 'Sleep App',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+        elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ElevatedButton.styleFrom(
+            primary: AppColors.primary,
+            textStyle: AppStyles.textButton,
           ),
         ),
-        debugShowCheckedModeBanner: false,
-        home: const SafeArea(
-          top: false,
-          bottom: false,
-          child: LandingPage(),
-        ));
+      ),
+      initialRoute: AppRouteName.landingPage,
+      routes: AppRoutes,
+      debugShowCheckedModeBanner: false,
+    );
   }
 }

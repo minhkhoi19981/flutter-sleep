@@ -3,6 +3,7 @@ import 'package:project_sleep/theme/app_colors.dart';
 
 class AppFronts {
   static const String helveticaNeue = 'HelveticaNeue';
+  static const String garamod = 'Garamod';
 }
 
 class AppStyles {
@@ -11,6 +12,12 @@ class AppStyles {
       fontSize: 30,
       fontWeight: FontWeight.bold,
       fontFamily: AppFronts.helveticaNeue);
+
+  static TextStyle titleBanner = const TextStyle(
+      color: AppColors.titleBanner,
+      fontFamily: AppFronts.garamod,
+      fontSize: 36,
+      fontWeight: FontWeight.bold);
 
   static TextStyle text = const TextStyle(
       color: AppColors.text,
@@ -24,10 +31,15 @@ class AppStyles {
       fontWeight: FontWeight.w400,
       fontFamily: AppFronts.helveticaNeue);
 
-  static ButtonStyle raisedButtonStyle = ElevatedButton.styleFrom(
-    minimumSize: const Size(88, 36),
-    shape: const RoundedRectangleBorder(
-      borderRadius: BorderRadius.all(Radius.circular(5)),
-    ),
-  );
+  static TextStyle textCategories = const TextStyle(
+      color: AppColors.textButtonCate,
+      fontSize: 16,
+      fontWeight: FontWeight.w400,
+      fontFamily: AppFronts.helveticaNeue);
+
+  static TextStyle titleNavBottom = const TextStyle(
+      color: AppColors.titleNavBottom,
+      fontSize: 14,
+      fontWeight: FontWeight.normal,
+      fontFamily: AppFronts.helveticaNeue);
 }
